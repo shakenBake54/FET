@@ -7,12 +7,14 @@
   transform: scaleY(1.05);
 }
 
+
+
 span {
-    color: #0174c7;
+    color: pink;
 }
 
 body {
-    background-image: url(https://assets.cdn.filesafe.space/FIWJhGH5AzdaZCNMxvft/media/6851ccb914347c7061dfff28.webp);
+    background-image: url(https://live.staticflickr.com/318/19359042510_8475521eea_b.jpg);
     /* font-family: 'Tungsten', sans-serif; */
     font-family: 'Oswald', sans-serif;
     text-align: center;
@@ -20,7 +22,7 @@ body {
 }
 
 #tranparency-layer{
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.5);
     width: 100%;
     margin: 0;
     border: 0cap;
@@ -32,11 +34,13 @@ body {
 
 .sections {
     border-radius: 25px;
-    background-color: rgba(255, 255, 255, 0.5);
+    /* background-color: rgba(255, 255, 255, 0.5); */
+    background-color: rgba(255, 192, 203, 0.498);
 }
 
 #blue-cont{
-    background-color: rgba(0, 20, 118, 0.75);
+    /* background-color: rgba(0, 20, 118, 0.75); */
+    background-color: rgba(251, 56, 209, 0.614);
     color: white;
     padding: 1%;
 }
@@ -57,7 +61,8 @@ ul li::before {
 }
 
 #red-banner {
-    background-color: #C5001B;
+    /* background-color: #C5001B; */
+    background-color: pink;
     color: white;
     padding: 3px;
     width: 33%;
@@ -106,7 +111,8 @@ a {
 }
 
 button {
-    background-color: rgb(1,116,199);
+    /* background-color: rgb(1,116,199); */
+    background-color: pink;
     color: white;
     font-size: 20px;
     padding: 15px;
@@ -155,7 +161,7 @@ button {
   flex-direction: column;
   justify-content: center;
   /* align-items: center; */
-  border: 2px solid #007BFF; 
+  border: 2px solid pink; 
   border-radius: 6px;
   font-size: 1.2rem;
   font-weight: 500;
